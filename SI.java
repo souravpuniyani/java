@@ -11,6 +11,8 @@ class SI
 	
 	int radius=2;
 	
+	
+
 	int S= (int)( P*r*t/100);
 	System.out.println(S);
 	
